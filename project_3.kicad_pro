@@ -466,7 +466,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -661,7 +661,7 @@
         "uuid": "d4fc7cfc-0c41-4933-8be6-2b765983d301"
       }
     ],
-    "used_designators": "U1-4,Y1,Q1,C1-14,J1-11,R1-15,F1,D1-5,SW1-3,TP1-9,1,FB1",
+    "used_designators": "U1-4,Y1,Q1,C1-14,J1-11,R1-15,F1,D1-5,SW1-3,TP1-9,1,FB1,#PWR1-14,1",
     "variants": []
   },
   "sheets": [
@@ -688,6 +688,26 @@
     [
       "305ecf9b-0067-408a-a3f9-16af4d17af28",
       "Block 10"
+    ],
+    [
+      "84827d46-62d1-4808-a3e6-e4210e6b855e",
+      "Block 1"
+    ],
+    [
+      "7669d05d-3b9a-4389-b7d8-96d4792c58ed",
+      "Block 2"
+    ],
+    [
+      "a473f9f0-cab9-4dd7-8246-7465ef880923",
+      "Block 3"
+    ],
+    [
+      "7b2da259-6db7-4469-846c-3735b199720a",
+      "Bock 4"
+    ],
+    [
+      "0c1219d2-7aec-4db2-a2a0-c211d9f32841",
+      "Block 5"
     ]
   ],
   "text_variables": {},
