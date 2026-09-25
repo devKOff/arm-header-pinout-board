@@ -661,13 +661,33 @@
         "uuid": "d4fc7cfc-0c41-4933-8be6-2b765983d301"
       }
     ],
-    "used_designators": "U1-2,Q1,Y1,C1-13,R1-15,J1-11,F1,D1-5,SW1-3,TP1-9,1",
+    "used_designators": "U1-4,Y1,Q1,C1-14,J1-11,R1-15,F1,D1-5,SW1-3,TP1-9,1,FB1",
     "variants": []
   },
   "sheets": [
     [
       "d4fc7cfc-0c41-4933-8be6-2b765983d301",
       "Root"
+    ],
+    [
+      "098fdff9-6db4-4c02-b10b-b1c5ba1b5170",
+      "Block 6"
+    ],
+    [
+      "f1220b9f-607b-4d56-a1ea-74ef17e8c4e2",
+      "Block 7"
+    ],
+    [
+      "282111e5-d0cd-4c6b-9527-8b274445019c",
+      "Block 8"
+    ],
+    [
+      "385037e8-b944-4fdd-856d-84402c229145",
+      "Block 9"
+    ],
+    [
+      "305ecf9b-0067-408a-a3f9-16af4d17af28",
+      "Block 10"
     ]
   ],
   "text_variables": {},
