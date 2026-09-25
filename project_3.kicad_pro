@@ -661,7 +661,7 @@
         "uuid": "d4fc7cfc-0c41-4933-8be6-2b765983d301"
       }
     ],
-    "used_designators": "U1-4,Y1,Q1,C1-14,J1-11,R1-15,F1,D1-5,SW1-3,TP1-9,1,FB1,#PWR1-14,1",
+    "used_designators": "U1-4,Y1,Q1,C1-15,J1-11,R1-15,F1,D1-5,SW1-3,TP1-9,1,FB1,#PWR1-26,1",
     "variants": []
   },
   "sheets": [
@@ -670,20 +670,8 @@
       "Root"
     ],
     [
-      "098fdff9-6db4-4c02-b10b-b1c5ba1b5170",
-      "Block 6"
-    ],
-    [
-      "f1220b9f-607b-4d56-a1ea-74ef17e8c4e2",
-      "Block 7"
-    ],
-    [
-      "282111e5-d0cd-4c6b-9527-8b274445019c",
-      "Block 8"
-    ],
-    [
-      "385037e8-b944-4fdd-856d-84402c229145",
-      "Block 9"
+      "e81ae58f-9aff-4c14-bba2-626071f09366",
+      "Block 3 – USB-C Interface & ESD Protection"
     ],
     [
       "305ecf9b-0067-408a-a3f9-16af4d17af28",
@@ -692,22 +680,6 @@
     [
       "84827d46-62d1-4808-a3e6-e4210e6b855e",
       "Block 1"
-    ],
-    [
-      "7669d05d-3b9a-4389-b7d8-96d4792c58ed",
-      "Block 2"
-    ],
-    [
-      "a473f9f0-cab9-4dd7-8246-7465ef880923",
-      "Block 3"
-    ],
-    [
-      "7b2da259-6db7-4469-846c-3735b199720a",
-      "Bock 4"
-    ],
-    [
-      "0c1219d2-7aec-4db2-a2a0-c211d9f32841",
-      "Block 5"
     ]
   ],
   "text_variables": {},
