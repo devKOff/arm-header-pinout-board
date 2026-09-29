@@ -1,4 +1,4 @@
-(pcb "E:\GIT\PCB\arm-header-pinout-board\temp-freerouting.dsn"
+(pcb freerouting.dsn
   (parser
     (string_quote ")
     (space_in_quoted_tokens on)
@@ -40,10 +40,10 @@
       (place U1 157500 -110675 front 90 (PN LPC2148FBD64))
     )
     (component Capacitor_SMD:C_0603_1608Metric
-      (place C11 160775 -121000 front 0 (PN 4.7µF))
+      (place C11 160775 -121000 front 0 (PN 4.7F))
     )
     (component Resistor_SMD:R_0603_1608Metric
-      (place R17 166412.5 -121000 front 0 (PN 10kΩ))
+      (place R17 166412.5 -121000 front 0 (PN 10k))
     )
     (component "Package_TO_SOT_SMD:SOT-23-6"
       (place U2 182000 -102000 front 90 (PN "USBLC6-2SC6"))
@@ -52,8 +52,8 @@
       (place U3 168450 -113637.5 front 90 (PN "AP2112K-3.3"))
     )
     (component Resistor_SMD:R_0603_1608Metric::1
-      (place R6 192000 -100500 front 90 (PN 10kΩ))
-      (place R5 188000 -100500 front 90 (PN 100kΩ))
+      (place R6 192000 -100500 front 90 (PN 10k))
+      (place R5 188000 -100500 front 90 (PN 100k))
     )
     (component Resistor_SMD:R_0603_1608Metric::2
       (place R10 146000 -116333.3 front 180 (PN 1k))
@@ -68,17 +68,17 @@
       (place C8 137500 -99725 front 0 (PN 100nF))
     )
     (component Resistor_SMD:R_0603_1608Metric::3
-      (place R7 169500 -101500 front 0 (PN 10kΩ))
+      (place R7 169500 -101500 front 0 (PN 10k))
     )
     (component Button_Switch_SMD:SW_SPST_TL3305A
       (place SW2 199500 -126000 front 180 (PN SW_Push))
       (place SW1 199900 -96000 front 180 (PN SW_Push))
     )
     (component Resistor_SMD:R_0603_1608Metric::4
-      (place R2 193325 -111000 front 180 (PN 5.1kΩ))
-      (place R3 193325 -119500 front 180 (PN 33Ω))
-      (place R1 187500 -111500 front 180 (PN 5.1kΩ))
-      (place R4 193325 -114990 front 180 (PN 33Ω))
+      (place R2 193325 -111000 front 180 (PN 5.1k))
+      (place R3 193325 -119500 front 180 (PN 33))
+      (place R1 187500 -111500 front 180 (PN 5.1k))
+      (place R4 193325 -114990 front 180 (PN 33))
     )
     (component Capacitor_SMD:C_0603_1608Metric::2
       (place C9 132000 -121275 front 90 (PN 100nF))
@@ -91,7 +91,7 @@
       (place J4 160020 -126235 front -90 (PN Conn_02x20_Odd_Even))
     )
     (component "Package_TO_SOT_SMD:SOT-23"
-      (place R16 186550 -121500 front 90 (PN 1.5kΩ))
+      (place R16 186550 -121500 front 90 (PN 1.5k))
       (place Q2 179550 -121500 front 90 (PN BC847))
     )
     (component Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
@@ -126,14 +126,14 @@
       (place J1 202000 -110415 front 90 (PN USB_C_Receptacle_USB2.0_16P))
     )
     (component Capacitor_SMD:C_0805_2012Metric
-      (place C5 181000 -115500 front 90 (PN 10µF))
-      (place C3 176000 -115500 front 90 (PN 10µF))
+      (place C5 181000 -115500 front 90 (PN 10F))
+      (place C3 176000 -115500 front 90 (PN 10F))
     )
     (component "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
       (place Y1 174650 -107400 front 90 (PN 12MHz))
     )
     (component Resistor_THT:R_Array_SIP14
-      (place RN1 104140 -127505 front 90 (PN 47Ω))
+      (place RN1 104140 -127505 front 90 (PN 47))
     )
     (component Diode_SMD:D_SMA
       (place D1 190500 -106000 front 0 (PN SMBJ5.0A))
