@@ -5,6 +5,7 @@
 	(uuid "d4fc7cfc-0c41-4933-8be6-2b765983d301")
 	(paper "A4")
 	(title_block
+		(title "Arm Header Pinout Board")
 		(rev "0.1v")
 		(company "Devendra Kashyap")
 	)
