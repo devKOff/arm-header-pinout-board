@@ -1,0 +1,10 @@
+# KiCad specific ignores
+*.pro
+*.kicad_prl
+*.kicad_lock
+~*
+*.bak
+-cache.lib
+?istory/
+*.dsn
+*.ses
